@@ -1,0 +1,10 @@
+name = "Jusplotter"
+uuid = "7a6a3846-4ba2-4c48-ab79-6b04ed37e242"
+version = "0.1.0"
+authors = ["matheus-bp <math.bp.sci@proton.me>"]
+
+[deps]
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+[compat]
+Makie = "0.24.17"
